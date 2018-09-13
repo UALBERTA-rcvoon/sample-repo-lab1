@@ -6,3 +6,5 @@ Line 1
 
 Line 2 on branch a
 
+Line 4 
+
