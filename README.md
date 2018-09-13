@@ -10,4 +10,6 @@ Line 3 on origin-master
 
 Line 2 on branch a
 
+Merge successful
+
 This is branch master
